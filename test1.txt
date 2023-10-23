@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 78C4-549D
+
+ Directory of C:\Users\Lovro\OneDrive\Desktop\FAKULTETA\FAKULTETA\github
+
+23. 10. 2023  21:43    <DIR>          .
+23. 10. 2023  21:43    <DIR>          ..
+23. 10. 2023  21:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  470.755.868.672 bytes free
